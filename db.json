@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin User",
+      "email": "admin@demonapp.com",
+      "status": "1",
+      "password": "q12344"
+    },
+    {
+      "id": "EMP100",
+      "name": "avinas",
+      "email": "avinas@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP105",
+      "name": "Morgan",
+      "email": "Morgan@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP104",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP106",
+      "name": "Nebu",
+      "email": "nebu@gmail.com"
+    },
+    {
+      "id": "EMP101",
+      "name": "Justin",
+      "email": "justin@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP107",
+      "name": "Ron",
+      "email": "ron@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "EMP102",
+      "name": "Karthik",
+      "email": "karthik@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "EMP108",
+      "name": "Riley",
+      "email": "riley@gmail.com",
+      "status": "1"
+    }
+  ]
+}
